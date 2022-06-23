@@ -1,0 +1,24 @@
+{
+  "name": "20127291_group07_btlt01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awun0105/API-with-Nodejs.git"
+  },
+  "author": "Lam QUang Anh Quan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awun0105/API-with-Nodejs/issues"
+  },
+  "homepage": "https://github.com/awun0105/API-with-Nodejs#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.11",
+    "express": "^4.18.1"
+  }
+}
